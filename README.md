@@ -4,13 +4,14 @@
   <img style="float: left; margin-right: 5px; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasgaabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Lucas-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Lucas-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Lucas-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Lucas-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Terraform" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Lucas-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Lucas-GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/googlecloud/googlecloud-original.svg">
 </div>
   
   ##
